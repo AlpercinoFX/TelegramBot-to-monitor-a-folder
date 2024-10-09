@@ -1,0 +1,5 @@
+BotToken: your_bot_token
+ChatID: your_chat_id
+ExcludedFiles: file1.txt, file2.txt
+Worker: your_worker_name
+MonitoringInterval: 10
